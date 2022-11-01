@@ -1,4 +1,4 @@
-# Quantitative-Finance-Momentum-Strategy
+# Quantitative-Momentum-Strategy
 
 "Momentum investing" means investing in the stocks that have increased in price the most.
 
